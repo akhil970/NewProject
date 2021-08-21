@@ -1,0 +1,6 @@
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemDoL\bin\Debug\IPLManagementSystemDoL.dll
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemDoL\bin\Debug\IPLManagementSystemDoL.pdb
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemDoL\obj\Debug\IPLManagementSystemDoL.csproj.CoreCompileInputs.cache
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemDoL\obj\Debug\IPLManagementSystemDoL.dll
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemDoL\obj\Debug\IPLManagementSystemDoL.pdb
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemDoL\obj\Debug\IPLManagementSystemDoL.csproj.AssemblyReference.cache

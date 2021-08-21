@@ -1,0 +1,13 @@
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemDL\bin\Debug\IPLManagementSystemDL.dll
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemDL\bin\Debug\IPLManagementSystemDL.pdb
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemDL\obj\Debug\IPLManagementSystemDL.csproj.CoreCompileInputs.cache
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemDL\obj\Debug\IPLManagementSystemDL.dll
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemDL\obj\Debug\IPLManagementSystemDL.pdb
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemDL\bin\Debug\IPLManagementSystemBL.dll
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemDL\bin\Debug\IPLManagementSystemDoL.dll
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemDL\bin\Debug\IPLManagementSystemBL.pdb
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemDL\bin\Debug\IPLManagementSystemDoL.pdb
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemDL\obj\Debug\IPLManagementSystemDL.csproj.AssemblyReference.cache
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemDL\obj\Debug\IPLManagementSystemDL.csproj.CopyComplete
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemDL\bin\Debug\EncryptionDecryption.dll
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemDL\bin\Debug\EncryptionDecryption.pdb

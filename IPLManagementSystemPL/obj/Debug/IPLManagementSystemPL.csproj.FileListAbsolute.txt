@@ -1,0 +1,66 @@
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\bin\Debug\IPLManagementSystemPL.exe.config
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\bin\Debug\IPLManagementSystemPL.exe
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\bin\Debug\IPLManagementSystemPL.pdb
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\bin\Debug\IPLManagementSystemBL.dll
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\bin\Debug\IPLManagementSystemDoL.dll
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\bin\Debug\IPLManagementSystemDL.dll
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\bin\Debug\IPLManagementSystemBL.pdb
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\bin\Debug\IPLManagementSystemDoL.pdb
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\bin\Debug\IPLManagementSystemDL.pdb
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Admin Menu Window.g.cs
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Customer Teams Window.g.cs
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Customer Tickets Window.g.cs
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Customer Window.g.cs
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Employee Login Window.g.cs
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\MainWindow.g.cs
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Match Window.g.cs
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\News Window.g.cs
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Player Window.g.cs
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Roles Details Window.g.cs
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Schedule Window.g.cs
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Statistics Window.g.cs
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Teams Window.g.cs
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Ticket Category Window.g.cs
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Ticket Window.g.cs
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Tickets Window.g.cs
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\User Details Window.g.cs
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\User Login Window.g.cs
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\User Roles Window.g.cs
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Venue Window.g.cs
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\App.g.cs
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\IPLManagementSystemPL_MarkupCompile.cache
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\IPLManagementSystemPL_MarkupCompile.lref
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Admin Menu Window.baml
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Customer Teams Window.baml
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Customer Tickets Window.baml
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Customer Window.baml
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Employee Login Window.baml
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\MainWindow.baml
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Match Window.baml
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\News Window.baml
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Player Window.baml
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Roles Details Window.baml
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Schedule Window.baml
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Statistics Window.baml
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Teams Window.baml
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Ticket Category Window.baml
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Ticket Window.baml
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Tickets Window.baml
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\User Details Window.baml
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\User Login Window.baml
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\User Roles Window.baml
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Venue Window.baml
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\IPLManagementSystemPL.g.resources
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\IPLManagementSystemPL.Properties.Resources.resources
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\IPLManagementSystemPL.csproj.GenerateResource.cache
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\IPLManagementSystemPL.csproj.CoreCompileInputs.cache
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\IPLManagementSystemPL.csproj.CopyComplete
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\IPLManagementSystemPL.exe
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\IPLManagementSystemPL.pdb
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Player Photo Window.g.cs
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Player Photo Window.baml
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\bin\Debug\EncryptionDecryption.dll
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\bin\Debug\EncryptionDecryption.pdb
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Customer Matches Page.g.cs
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\Customer Matches Page.baml
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemPL\obj\Debug\IPLManagementSystemPL.csproj.AssemblyReference.cache

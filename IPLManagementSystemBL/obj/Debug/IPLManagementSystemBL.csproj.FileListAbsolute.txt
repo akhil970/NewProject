@@ -1,0 +1,11 @@
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemBL\bin\Debug\IPLManagementSystemBL.dll
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemBL\bin\Debug\IPLManagementSystemBL.pdb
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemBL\obj\Debug\IPLManagementSystemBL.csproj.CoreCompileInputs.cache
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemBL\obj\Debug\IPLManagementSystemBL.dll
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemBL\obj\Debug\IPLManagementSystemBL.pdb
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemBL\bin\Debug\IPLManagementSystemDL.dll
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemBL\bin\Debug\IPLManagementSystemDoL.dll
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemBL\bin\Debug\IPLManagementSystemDL.pdb
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemBL\bin\Debug\IPLManagementSystemDoL.pdb
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemBL\obj\Debug\IPLManagementSystemBL.csproj.AssemblyReference.cache
+H:\AKHIL\Sprint 1\IPLManagemenSystem\IPLManagementSystemBL\obj\Debug\IPLManagementSystemBL.csproj.CopyComplete
